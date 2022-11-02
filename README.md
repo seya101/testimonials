@@ -8,7 +8,7 @@
 ### Tablet
 ![](./assets/images/screenshots/tablet-view-hpc.png)
 
-### mobile
+### Mobile
 ![](./assets/images/screenshots/mobile-view-hpc.png)
 
 ### Built with
