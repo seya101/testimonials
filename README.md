@@ -4,19 +4,19 @@
 
 ### Desktop
 <p align="center" width="100%">
-    ![](./assets/images/screenshots/desktop-view-hpc.png)
+    <img src="./assets/images/screenshots/desktop-view-hpc.png">
 </p>
 
 
 ### Tablet
 <p align="center" width="100%">
-    ![](./assets/images/screenshots/tablet-view-hpc.png)
+    <img src="./assets/images/screenshots/tablet-view-hpc.png">
 </p>
 
 
 ### mobile
 <p align="center" width="100%">
-    ![](./assets/images/screenshots/mobile-view-hpc.png)
+    <img src="./assets/images/screenshots/mobile-view-hpc.png">
 </p>
 
 ### Built with
