@@ -1,0 +1,89 @@
+:root {
+    --violet: hsl(263, 55%, 52%);
+    --dark-blue: hsl(219, 29%, 14%);
+    --dark-grayish-blue: hsl(217, 19%, 35%);
+    --white: hsl(0, 0%, 100%);
+    --gray: hsl(0, 0%, 81%);
+    --light-gray: hsl(210, 46%, 95%);
+  }
+
+html, body { 
+    height: 100%;
+    background-color: var(--light-gray);
+    font-size: 13px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 500;
+}
+
+.main-container {
+    position: absolute;
+    top: 20%;
+    margin: 0px 100px;
+}
+
+.card {
+    background-color: var(--white);
+    border-radius: 1rem;
+    color: var(--dark-grayish-blue);
+    padding: 1rem;
+  }
+  
+.card.card-primary {
+    background-color: var(--violet);
+    background-image: url('./images/bg-pattern-quotation.svg');
+    background-repeat: no-repeat;
+    background-position: 90% 0%;
+    color: var(--light-gray);
+}
+
+.card.card-gray {
+    background-color: var(--dark-grayish-blue);
+    color: var(--light-gray);
+}
+
+.card.card-dark {
+    background-color: var(--dark-blue);
+    color: var(--light-gray);
+}
+
+.card-header-img > img {
+    height: 2.5rem;
+    width: 2.5rem;
+    border: 2px solid var(--gray);
+}
+
+.img-violet-border > img {
+    border: 2px solid var(--violet);
+}
+
+.card-header-info > small {
+    opacity: 0.5;
+}
+
+.card-body h4 {
+    font-size: 1.5rem;
+    padding-top: 1rem;
+}
+  
+.card-body p {
+    font-size: 0.85rem;
+    opacity: 0.75;
+    padding-top: 1rem;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    margin-top: 5%;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+@media only screen and (max-width: 1024px) {
+    .main-container {
+        top: 5%;
+        margin: 0px;
+    }
+}
