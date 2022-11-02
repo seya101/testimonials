@@ -3,6 +3,9 @@
 ## Screenshot
 
 ### Desktop
+<p align="center" width="100%">
+    <img width="15%" src="./assets/images/screenshots/desktop-view-hpc.png"> 
+</p>
 ![](./assets/images/screenshots/desktop-view-hpc.png)
 
 ### Tablet
