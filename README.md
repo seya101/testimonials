@@ -14,7 +14,7 @@
 </p>
 
 
-### mobile
+### Mobile
 <p align="center" width="100%">
     <img src="./assets/images/screenshots/mobile-view-hpc.png">
 </p>
