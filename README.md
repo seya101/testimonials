@@ -3,13 +3,21 @@
 ## Screenshot
 
 ### Desktop
-![](./assets/images/screenshots/desktop-view-hpc.png)
+<p align="center" width="100%">
+    ![](./assets/images/screenshots/desktop-view-hpc.png)
+</p>
+
 
 ### Tablet
-![](./assets/images/screenshots/tablet-view-hpc.png)
+<p align="center" width="100%">
+    ![](./assets/images/screenshots/tablet-view-hpc.png)
+</p>
 
-### Mobile
-![](./assets/images/screenshots/mobile-view-hpc.png)
+
+### mobile
+<p align="center" width="100%">
+    ![](./assets/images/screenshots/mobile-view-hpc.png)
+</p>
 
 ### Built with
 - Bootstrap 5
@@ -21,7 +29,3 @@
 Your users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
-
-
-
-
